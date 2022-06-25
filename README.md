@@ -1,8 +1,12 @@
 # Movie-DB
 
-MOVIES APP that will show a list of Movies--
+MOVIES APP that will show a list of Movies
+
+
 1---> Allow to mark movie favorite list
+
 2---> If movie is already marked as favorite then we can unfavourite the same movie
+
 3---> Allow to search for movies
 
 ====================> VIEWS <================================
